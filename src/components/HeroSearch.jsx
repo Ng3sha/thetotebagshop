@@ -7,7 +7,7 @@ export default function Herosearch() {
         <div className=" flex w-full justify-center items-center dark:bg-gray-800">
             <div className="flex relative rounded-md w-full px-4 max-w-3xl">
                 <Button 
-                className="flex border items-center bg-[#001616] py-4 px-4 rounded-l-lg"
+                className="flex border items-center bg-[#001616] py-4 px-4 rounded-l-lg shadow"
                 icon={<FiSearch color="white" size={26}/>}
                 />
                 <input

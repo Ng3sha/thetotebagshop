@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap');
 @import "tailwindcss";
 
-@source "./node_modules/preline/dist/*.js";
-@import "./node_modules/preline/variants.css";
-@plugin "@tailwindcss/forms";
-@import "./themes/theme.css";
+/* @source "./node_modules/preline/dist/*.js"; */
+/* @import "./node_modules/preline/variants.css"; */
+/* @plugin "@tailwindcss/forms"; */
+/* @import "./themes/theme.css"; */
 
 * {
     font-family: "montserrat", Raleway !important;   

@@ -5,9 +5,9 @@ import { FaSliders } from "react-icons/fa6";
 
 export default function Filter() {
   return (
-    <div className="flex items-center justify-center gap-4">
+    <div className="flex flex-wrap  items-center justify-center gap-4">
       <Button 
-      className="py-4 px-6 bg-[#001616] text-white flex items-center gap-2.5 rounded-[30px] text-[20px]"
+      className="py-4 px-6 bg-[#001616] text-white flex items-center gap-2.5 rounded-[30px] text-[20px] shadow"
       icon={<FaSliders />}
       btnname={"All"}
       />
